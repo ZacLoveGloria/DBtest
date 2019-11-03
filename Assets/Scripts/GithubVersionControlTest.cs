@@ -9,6 +9,8 @@ public class GithubVersionControlTest : MonoBehaviour
     {
         //This is a branch of Zac;
         //Zac add some new features here;
+        //This is other branch!;
+        //Zac branch merged with other branch!!;
     }
 
     // Update is called once per frame
